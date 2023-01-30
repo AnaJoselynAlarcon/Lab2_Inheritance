@@ -1,0 +1,9 @@
+C:\Users\josel\source\repos\EmployeesLabE\Employees\bin\Debug\employees.txt
+C:\Users\josel\source\repos\EmployeesLabE\Employees\bin\Debug\CPRG211E-Lab2.exe.config
+C:\Users\josel\source\repos\EmployeesLabE\Employees\bin\Debug\CPRG211E-Lab2.exe
+C:\Users\josel\source\repos\EmployeesLabE\Employees\bin\Debug\CPRG211E-Lab2.pdb
+C:\Users\josel\source\repos\EmployeesLabE\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\josel\source\repos\EmployeesLabE\Employees\obj\Debug\Employees.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\source\repos\EmployeesLabE\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\josel\source\repos\EmployeesLabE\Employees\obj\Debug\CPRG211E-Lab2.exe
+C:\Users\josel\source\repos\EmployeesLabE\Employees\obj\Debug\CPRG211E-Lab2.pdb
